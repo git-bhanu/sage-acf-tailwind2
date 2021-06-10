@@ -41,7 +41,8 @@
     "roots/sage-lib": "~9.0.9",
     "soberwp/controller": "~2.1.0",
     "roots/sage-installer": "dev-webpack5#f4a07cb",
-    "log1x/sage-directives": "^1.1"
+    "log1x/sage-directives": "^1.1",
+    "mwdelaney/sage-acf-gutenberg-blocks": "^0.7.0"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^2.8.0",
